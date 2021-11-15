@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @patrick7star
+- 👋 Hi, I’m @patrick7star... this isn't my real name.
 - 👀 I’m interested in mathematics and coding.
 - 🌱 I’m currently learning mathematics, statistics, computing and programming languages like Python and Rust.
 - 💞️ I’m looking to collaborate on everything that seems awesome.
